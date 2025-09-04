@@ -20,3 +20,19 @@ CMD ["cat", "/app/mensaje.txt"]
 En la carpeta del punto 1 se encuentra el pantallazo
 
 #PUNTO 2
+
+Para ver la solución del punto 2 se deben ver los pantallazos de la siguiente manera en la carpeta del punto2
+
+Paso1: CreacionVOlumenUsoCOnteiner
+Paso2: CreacionTablaParcial
+Paso3: eliminandoCOntenedor
+Paso4: CreacionNuevoCOntainer
+
+#Punto 3
+Para ver la solución del punto 3 se deben ver los pantallazos de la siguiente manera en la carpeta llamada punto3
+
+Paso 1: Carpeta web
+Paso 2: container
+paso3: localhostInicial
+paso4y5: localhostfinal
+
